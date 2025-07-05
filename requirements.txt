@@ -3,3 +3,5 @@ tensorflow-cpu==2.11.0
 numpy
 pillow
 scikit-learn
+matplotlib
+seaborn
